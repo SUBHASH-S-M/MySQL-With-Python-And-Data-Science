@@ -1,0 +1,7 @@
+port-3306
+X portocol Port : 33060
+MYSQL root password:12345
+user
+subhash1
+pass:1234
+service name:MySQL80
